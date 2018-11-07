@@ -1,7 +1,7 @@
 # FaceEnhancement
-For advanced CV project in University of Houston.  Goal is to reimplement the state-of-art paper "Deep Retinex Decomposition for Low-Light Enhancement", and test it on low light faces.
-Here is the paper website: https://daooshee.github.io/BMVC2018website/
-The author also has published its code and dataset. You can find it on above website.
+For advanced CV project in University of Houston.  Goal is to reimplement the state-of-art paper "Deep Retinex Decomposition for Low-Light Enhancement", and test it on low light faces.     
+Here is the paper website: https://daooshee.github.io/BMVC2018website/         
+The author also has published its code and dataset. You can find it on above website.        
 
 Result for image decomposition:     
 {low Light, normal light, reflectance, illumination}        
