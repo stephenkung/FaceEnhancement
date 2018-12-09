@@ -7,6 +7,10 @@ For advanced CV project in University of Houston. Goals:
 >The author also has published their code and dataset. You can find it on above website.        
 
 -----
+## Dependency
+This work is done by tensorflow 1.10 + Python3.6.6
+
+
 ## Network architecture    
 ![](https://github.com/stephenkung/FaceEnhancement/blob/master/P1.jpg)
 
