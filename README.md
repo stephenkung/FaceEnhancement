@@ -7,13 +7,22 @@ For advanced CV project in University of Houston. Goals:
 >The author also has published their code and dataset. You can find it on above website.        
 
 -----
+## Documents
+Final presentation    
+Final report      
+lowlight.ipynb: implementation of Retinex-Net    
+Traditional_enhance.ipynb: implemenation of Gamma enahncement 
+landmark.ipynb: face and landmark deteciton     
+
+
 ## Dependency
 This work is done by tensorflow 1.10 + Python3.6.6
-
+>Training can be finished in 1 hour, with a GTX1060(6G RAM). 
+-----
 
 ## Network architecture    
 ![](https://github.com/stephenkung/FaceEnhancement/blob/master/P1.jpg)
-
+-----
 
 ## Result for image decomposition       
 {low Light, normal light, reflectance, illumination}        
