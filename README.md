@@ -32,6 +32,9 @@ Training can be finished in 1 hour, with a GTX1060(6G RAM).
 ![](https://github.com/stephenkung/FaceEnhancement/blob/master/pics/epoch49img1.png)
 ![](https://github.com/stephenkung/FaceEnhancement/blob/master/pics/epoch9img1.png)
 
+-----
 
+## Result for image enhancement          
+![](https://github.com/stephenkung/FaceEnhancement/blob/master/pics/enhance.PNG)
 
       
