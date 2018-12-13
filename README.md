@@ -11,7 +11,7 @@ For advanced CV project in University of Houston. Goals:
 Final presentation    
 Final report      
 lowlight.ipynb: implementation of Retinex-Net    
-Traditional_enhance.ipynb: implemenation of Gamma enahncement 
+Traditional_enhance.ipynb: implemenation of Gamma enahncement    
 landmark.ipynb: face and landmark deteciton     
 
 -----
