@@ -1,4 +1,4 @@
-# Low Light Face Enhancement
+# Low Light Face Image Enhancement
 For advanced CV project in University of Houston. Goals:
 1) reimplement the state-of-art paper "Deep Retinex Decomposition for Low-Light Enhancement".    
 2) test it on low light faces.    
